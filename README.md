@@ -14,3 +14,13 @@ The hypothesis testing process involves several steps, including:
     Interpreting the results and drawing conclusions about the population parameter of interest based on the decision to reject or accept the null hypothesis.
 
 Hypothesis testing is widely used in various fields such as psychology, medicine, engineering, business, and more to make informed decisions and draw reliable conclusions based on sample data.
+
+**License Caution
+**
+Please note that the data provided in this repository is for study purposes only and may not be used for commercial or non-academic purposes without prior permission from the original data sources. Some of the data sources may have their own licenses and terms of use, which you are responsible for complying with.
+
+By accessing or using the data in this repository, you agree to release the original data sources and their respective authors, contributors, and licensors from any liability or responsibility for any loss, damage, or expense arising from the use or distribution of the data.
+
+If you wish to use the data for commercial or non-academic purposes, please contact the original data sources to obtain the necessary permissions and licenses.
+
+Thank you for your cooperation in complying with these terms and helping to ensure that the data is used responsibly and ethically.
