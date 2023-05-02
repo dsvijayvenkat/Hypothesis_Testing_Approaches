@@ -15,8 +15,8 @@ The hypothesis testing process involves several steps, including:
 
 Hypothesis testing is widely used in various fields such as psychology, medicine, engineering, business, and more to make informed decisions and draw reliable conclusions based on sample data.
 
-**License Caution
-**
+**License Caution**
+
 Please note that the data provided in this repository is for study purposes only and may not be used for commercial or non-academic purposes without prior permission from the original data sources. Some of the data sources may have their own licenses and terms of use, which you are responsible for complying with.
 
 By accessing or using the data in this repository, you agree to release the original data sources and their respective authors, contributors, and licensors from any liability or responsibility for any loss, damage, or expense arising from the use or distribution of the data.
